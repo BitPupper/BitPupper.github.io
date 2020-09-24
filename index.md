@@ -1,3 +1,5 @@
+# Post Index
+
 <ul>
   {% for post in site.posts %}
     <li>
