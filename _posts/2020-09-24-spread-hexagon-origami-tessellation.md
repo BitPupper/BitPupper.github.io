@@ -5,5 +5,5 @@ title:  "First Time Folding an Origami Tessellation!"
 
 My attempt at folding Eric Gjerde's spread hexagon design.
 
-![](assets/hex_front)
-![](assets/hex_back)
+![](/assets/hex_front)
+![](/assets/hex_back)
