@@ -1,5 +1,5 @@
 <ul>
-  {% for post in https://bitpupper.github.io/.posts %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
